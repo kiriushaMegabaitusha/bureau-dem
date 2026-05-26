@@ -370,7 +370,3 @@ If you use this replication package, please cite:
 ```
 
 ---
-
-**Last Updated:** 2026-03-29  
-**Package Version:** 1.0  
-**Status:** ✅ Complete and Reproducible
