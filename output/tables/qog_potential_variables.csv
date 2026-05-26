@@ -1,0 +1,4 @@
+Variable,Non_Null,Coverage_Pct,Dtype
+ccp_civil,10061,64.64276535594962,float64
+atop_neutrality,9406,60.4343356463634,float64
+wdi_wombuslawi,8913,57.26676946800308,float64

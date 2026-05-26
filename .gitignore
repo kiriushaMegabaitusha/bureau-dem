@@ -1,0 +1,26 @@
+# Replication Package .gitignore
+
+# Logs
+logs/*.log
+
+# R environment
+.RData
+.Rhistory
+
+# R cache
+.rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp

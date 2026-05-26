@@ -1,0 +1,60 @@
+MASTER PANEL DATASET - CODEBOOK
+==================================
+
+Generated: 2026-03-24
+Observations: 13971
+Countries: 183
+Time period: 1940 - 2024
+
+VARIABLES
+---------
+
+DEPENDENT VARIABLE
+  bureaucratization_index (numeric, 0-1)
+    Mean of 5 V-Dem Core components:
+    - Rigorous and impartial administration
+    - Transparent laws
+    - Rule of law
+    - Access to justice
+    - Absence of corruption
+
+INDEPENDENT VARIABLES (H1-H4)
+  democratic_transition (binary, 0/1)
+    H1: Democratic transition accelerates bureaucratization
+    Coded 1 when polyarchy crosses 0.5 threshold from below
+
+  democracy_duration_log (numeric)
+    H2: Longer democracy duration → higher bureaucratization
+    Log-transformed years since democratic transition
+
+  v2x_polyarchy (continuous, 0-1)
+    H3: Higher democracy level → higher bureaucratization
+    V-Dem polyarchy index (continuous measure)
+
+  democracy_stability_interaction (numeric)
+    H4: Democratic consolidation stabilizes bureaucratization
+    Interaction: democracy_binary × log(regime_stability)
+
+CONTROL VARIABLES
+  gdppc_log (numeric)
+    Log GDP per capita (2017 USD)
+
+  colonial_legacy (binary, 0/1)
+    Proxy: non-OECD membership
+
+  region_* (binary, 0/1)
+    Regional dummies (OECD, Latin America, Eastern Europe,
+    Africa, Asia)
+
+THEORETICAL FRAMEWORK
+---------------------
+H1: Democratic transition → accelerated bureaucratization (+)
+H2: Democracy duration → higher bureaucratization (+)
+H3: Democracy level → higher bureaucratization (+)
+H4: Democratic consolidation → stabilized bureaucratization
+
+METHODOLOGY
+-----------
+Primary model: Fixed effects regression (country + year FE)
+Standard errors: Clustered by country
+

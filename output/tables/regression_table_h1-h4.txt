@@ -1,0 +1,28 @@
+
+Democracy-Bureaucracy Relationship: Testing H1-H4
+==================================================================================
+                                             Dependent variable:                  
+                            ------------------------------------------------------
+                                           Bureaucratization Index                
+                                 (1)           (2)           (3)          (4)     
+----------------------------------------------------------------------------------
+Democratic transition         0.057***                                            
+                               (0.008)                                            
+                                                                                  
+Democracy duration (log)                    0.178***                              
+                                             (0.003)                              
+                                                                                  
+Democracy level (polyarchy)                               0.511***                
+                                                           (0.005)                
+                                                                                  
+Democracy × Stability                                                   0.033***  
+                                                                        (0.001)   
+                                                                                  
+----------------------------------------------------------------------------------
+Observations                   13,619        12,747        13,620        7,484    
+Adjusted R2                    -0.016         0.167         0.429        0.155    
+==================================================================================
+Note:                                                  *p<0.1; **p<0.05; ***p<0.01
+                                                     Fixed effects: Country + Year
+                               Standard errors clustered by country in parentheses
+                                                       *p<0.1; **p<0.05; ***p<0.01

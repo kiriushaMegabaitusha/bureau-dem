@@ -1,0 +1,8 @@
+Indicator,Variable,Observations,Coverage %,Mean,Std
+WGI - Control of Corruption,wbgi_cce,4537,29.2%,-0.062,0.999
+WGI - Government Effectiveness,wbgi_gee,4524,29.1%,-0.061,0.993
+WGI - Rule of Law,wbgi_rle,4625,29.7%,-0.062,0.993
+WGI - Regulatory Quality,wbgi_rqe,4527,29.1%,-0.069,0.988
+WGI - Voice & Accountability,wbgi_vae,4627,29.7%,-0.039,1.005
+WGI - Political Stability,wbgi_pve,4587,29.5%,-0.052,0.992
+V-Dem - Liberal Democracy,vdem_libdem,10696,68.7%,0.334,0.277
