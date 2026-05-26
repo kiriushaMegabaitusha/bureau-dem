@@ -371,7 +371,6 @@ If you use this replication package, please cite:
   school = {Kyiv School of Economics},
   year = {2026},
   type = {Master's Thesis},
-  url = {https://doi.org/[DOI-PENDING]}
 }
 ```
 
