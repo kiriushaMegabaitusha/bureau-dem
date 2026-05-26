@@ -2,9 +2,8 @@
 
 ## From Weber to the World: Tracing Bureaucratic Homogenization Over Time
 
-**Author:** Kiiokhiko-Kyrylo Yasuda  
+**Author:** Kyrylo Yasuda  
 **Program:** Master of Public Policy (MPPG26), Kyiv School of Economics  
-**Advisor:** Dr. Anastasiia Vlasenko  
 **Date:** 2026  
 
 ---
@@ -344,11 +343,7 @@ Package versions:
 **Corresponding Author:**  
 Kiiokhiko-Kyrylo Yasuda  
 Kyiv School of Economics  
-Email: [your-email@kse.ua]
-
-**Advisor:**  
-Dr. Anastasiia Vlasenko  
-Kyiv School of Economics  
+Email: `kiriloasuda@gmail.com`
 
 ---
 
